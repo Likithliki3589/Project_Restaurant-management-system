@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'restaurant_management_system',
+    'name': 'Restro_Bar_Management_System',
 	'version': '18.0.1.0',
 	'summary': 'This Module for training purpose',
 	'description': """This Module for training purpose.	""",
